@@ -1,2 +1,2 @@
 # LeetCodeEveryday
-An Code a day keeps the Unemployment away.
+A Code a day keeps the Unemployment away.

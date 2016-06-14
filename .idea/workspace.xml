@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f4f9233-160a-4e9a-b176-d02407196b7b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AddDigits2_NO258.java" afterPath="$PROJECT_DIR$/AddDigits2_NO258.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AddDigits_NO258.java" afterPath="$PROJECT_DIR$/AddDigits_NO258.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BinaryTreePaths2_NO257.JAVA" afterPath="$PROJECT_DIR$/BinaryTreePaths2_NO257.JAVA" />
@@ -35,8 +37,8 @@
       <file leaf-file-name="AddDigits_NO258.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AddDigits_NO258.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+            <state relative-caret-position="180">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -79,8 +81,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="360" />
-    <option name="y" value="137" />
+    <option name="x" value="151" />
+    <option name="y" value="82" />
     <option name="width" value="1246" />
     <option name="height" value="786" />
   </component>
@@ -237,15 +239,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1465823186383</updated>
-      <workItem from="1465823188381" duration="3174000" />
+      <workItem from="1465823188381" duration="3513000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3174000" />
+    <option name="totallyTimeSpent" value="3513000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="360" y="137" width="1246" height="786" extended-state="0" />
+    <frame x="151" y="82" width="1246" height="786" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -295,8 +297,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AddDigits_NO258.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+        <state relative-caret-position="180">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
           <folding />
         </state>
       </provider>
