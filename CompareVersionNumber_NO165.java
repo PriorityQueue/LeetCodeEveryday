@@ -4,7 +4,7 @@ public class CompareVersionNumber_NO165 {
 
     }
     public int compareVersion(String version1, String version2) {
-        String[] v1 = version1.split("\\.");
+        String[] v1 = version1.split("\\.");   // 正则表达式
         String[] v2 = version2.split("\\.");
 
         if(v1.length == 0)
