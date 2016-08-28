@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f4f9233-160a-4e9a-b176-d02407196b7b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CompareVersionNumber_NO165.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCodeEveryday.iws" />
@@ -38,8 +36,8 @@
       <file leaf-file-name="CompareVersionNumber_NO165.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CompareVersionNumber_NO165.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="12" selection-end-column="40" />
+            <state relative-caret-position="460">
+              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -293,7 +291,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="NO165" />
+    <option name="LAST_COMMIT_MESSAGE" value="NO165" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -340,8 +339,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CompareVersionNumber_NO165.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="12" selection-end-column="40" />
+        <state relative-caret-position="460">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
           <folding />
         </state>
       </provider>
