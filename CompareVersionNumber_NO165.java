@@ -3,7 +3,38 @@ public class CompareVersionNumber_NO165 {
         System.out.print(new Solution().compareVersion("1.1","1.0"));
 
     }
-    public int compareVersion(String version1, String version2) {
+    public int compareVersion(String version1,String version2)
+    {
+        int l1 = version1.length();
+        int l2 = version2.length();
+        int p1 = 0x00, p2 = 0x00;
+        int v1 = 0x00, v2 = 0x00;
+        while ( p1 < l1 || p2 < l2)
+        {
+            while (p1 < l1 && version1.charAt(p1) != '.')
+            {
+                v1 = v1 * 10 + ( version1.charAt(p1) - '0');
+                ++p1;
+            }
+            while (p2 < l2 && version2.charAt(p2) != '.')
+            {
+                v2 = v2 * 10 + ( version2.charAt(p2) - '0');
+                ++p2;
+            }
+            if (v1 > v2)
+                return 1;
+            else if (v1 < v2 )
+                return -1;
+            else{
+                v1 = 0x00;
+                v2 = 0x00;
+                ++p1;
+                ++p2;
+            }
+        }
+        return 0;
+    }
+/*    public int compareVersion(String version1, String version2) {
         String[] v1 = version1.split("\\.");   // 正则表达式
         String[] v2 = version2.split("\\.");
 
@@ -53,5 +84,6 @@ public class CompareVersionNumber_NO165 {
                 return -1;
         }
         return result;
-    }
+    }*/
+
 }
