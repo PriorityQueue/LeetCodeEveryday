@@ -1,5 +1,5 @@
 public class CountingBits_NO338{
-    public int[] countBits1(int num)
+/*    public int[] countBits1(int num)
     {
         int j,k;
         int[] result = new int[num+1];
@@ -21,7 +21,7 @@ public class CountingBits_NO338{
             }while (0<k&&k<=num);
         }
         return result;
-    }
+    }*/
     public int[] countBits2(int num) {
         int[] result = new int[num + 1];
         for(int i = 0; i<= num ; ++i) result[i] = result[i>>1] + (i & 0x01);
