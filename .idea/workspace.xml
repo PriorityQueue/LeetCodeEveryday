@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f4f9233-160a-4e9a-b176-d02407196b7b" name="Default" comment="NO338_solution">
+    <list default="true" id="5f4f9233-160a-4e9a-b176-d02407196b7b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCodeEveryday.iws" />
@@ -58,9 +58,11 @@
       <file leaf-file-name="CountingBits_NO338.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CountingBits_NO338.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-              <folding />
+            <state relative-caret-position="460">
+              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+              <folding>
+                <marker date="1472468758806" expanded="true" signature="35:669" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -318,7 +320,8 @@
     <MESSAGE value="NO165 添加注释" />
     <MESSAGE value="NO8" />
     <MESSAGE value="NO338_solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="NO338_solution" />
+    <MESSAGE value="just leave the best solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="just leave the best solution" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -355,7 +358,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1472468758806" expanded="true" signature="35:669" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -502,9 +507,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CountingBits_NO338.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-          <folding />
+        <state relative-caret-position="460">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <folding>
+            <marker date="1472468758806" expanded="true" signature="35:669" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
