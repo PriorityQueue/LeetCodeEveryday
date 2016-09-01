@@ -13,6 +13,7 @@ public class SingleNumber3_NO260{
        int[] result = new int[2];
        for (int k:c.keySet())
        {
+
            if (i < 2)
                result[i++] = k;
            else
