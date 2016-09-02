@@ -11,6 +11,7 @@ public class CompareVersionNumber_NO165 {
         int v1 = 0x00, v2 = 0x00;
         while ( p1 < l1 || p2 < l2)
         {
+            //每次取出一个等级的数进行比较
             while (p1 < l1 && version1.charAt(p1) != '.')
             {
                 v1 = v1 * 10 + ( version1.charAt(p1) - '0');
@@ -35,7 +36,7 @@ public class CompareVersionNumber_NO165 {
         return 0;
     }
 /*    public int compareVersion(String version1, String version2) {
-        String[] v1 = version1.split("\\.");   // 正则表达式
+        String[] v1 = version1.split("\\.");   // 正则表达式,点需要使用反义。
         String[] v2 = version2.split("\\.");
 
         if(v1.length == 0)
