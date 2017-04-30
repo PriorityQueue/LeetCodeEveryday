@@ -148,4 +148,6 @@ public class TwoSum_NO167 {
         }
         return indice;
     }
+    private static void PRtest(){
+    }
 }
